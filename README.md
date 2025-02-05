@@ -12,4 +12,4 @@ This project includes two automation bots designed to streamline tasks on WhatsA
 
 ## Technologies Used
 - **Programming Language**: Python  
-- **Automation Tool**: Selenium  
+- **Automation Tool**: Selenium
